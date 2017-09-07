@@ -1,0 +1,26 @@
+{
+  "domain":
+  {
+    "type" : 1,
+    "name" : "testdomain",
+    "id-hash" : "SHA256",
+    "sign-hash" : "SHA256",
+    "ska" : "DES",
+    "subdm-ids" :
+    [
+      {
+        "subdm-id": [3,5,7,0]
+      },
+      {
+        "subdm-id": [2,1,2,0]
+      }
+    ],
+    "g" :
+    {
+      "x" : "28373fab0293",
+      "y" : "28373fab0291",
+      "z" : "28373fab0292"
+    }
+  }
+}
+
